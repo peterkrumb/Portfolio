@@ -1,0 +1,88 @@
+header  {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: white;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+    border-bottom-width: 1px;
+    height: 100px;
+    margin: -8px -8px 0px -8px;
+    }
+
+h1  {
+    padding: 18px;
+    color: #eee;
+    width: 17%;
+    height: 50%;
+    background: #4aaaa5;
+    margin: -83px 0px 0px 240px;
+    float: left;
+    padding-top: 33px;
+    }
+
+body    {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/7/76/Ed_g2s_background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+
+.navbar{
+    text-align: right;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 0px 250px 0px 0px;
+    padding-bottom: 1px;
+}
+
+.box{
+    padding: 50px;
+    margin: 40px 256px 40px 230px;
+    background: white;
+    padding-top: 1px;
+    border: 1px solid lightgrey;  
+}
+
+#main-bio{
+    margin: 0px 377px 0px 185px;   
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    color: #777777;
+}
+
+#bio-image{
+    margin: -189px 0px 56px -187px;
+}
+
+a:link{
+    color: lightgray;
+    text-decoration: none;
+    
+}
+
+li{
+    display: inline;
+    padding: 20px;
+    height: 10px;
+}
+
+p{
+    width: 580px;
+    font: green;
+}
+
+h2{
+    color: #4aaaa5;
+}
+
+footer{
+    background:#666666;
+    padding: 25px;
+    margin: 0px -25px 0px -25px;
+    position: sticky;
+    border-top: 8px solid #4aaaa5;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #cccccc;
+    text-align: center;
+    margin: 0px -8px 0px -8px;
+}
