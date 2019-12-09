@@ -108,3 +108,126 @@ color: #4aaaa5;
 float: left;
 width: 47%;
 }
+
+.portfolio-box{
+    background: white;
+    margin: 38px 270px 36px 224px;
+    padding: 120px 0px 368px 0px;
+    border: 1px solid lightgrey;
+}
+
+.port-header{
+    background: none;
+    color: #4aaaa5;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 26px;
+    float: left;
+}
+
+.portfolio-boxes{
+    padding: 0px 0px 0px 229px;
+    margin: 40px 0px 0px 0px;
+}
+
+.box-set {
+    position: relative;
+    height: 400px;
+}
+
+#hang{
+    margin: 0px 40px 0px 55px;
+    position: relative;
+}
+
+#RPG{
+    margin: 0px 0px 0px 67px;
+}
+
+#Trivia{
+    margin: 0px 0px -186px -380px;
+    overflow: auto;
+}
+
+#Widget{
+    margin: 0px 0px -185px 69px;
+}
+
+#Rock{
+    margin: 0px 0px -341px -377px;
+}
+
+.hang-link{
+    margin: 518px -267px 37px 72px;
+    background: #4aaaa5;
+    position: relative;
+    font-size: 18px;
+    width: 16%;
+    padding: 7px;
+    text-align: center;
+    color: white;
+    float: left;
+    overflow: auto;
+}
+
+.trivia-link{
+    margin: 118px -222px 0px 72px;
+    background: #4aaaa5;
+    position: relative;
+    font-size: 18px;
+    width: 16%;
+    padding: 7px;
+    padding-left: 1px;
+    padding-right: 5px;
+    text-align: center;
+    color: white;
+    float: left;
+    overflow: auto;   
+}
+
+.rpg-link{
+    margin: -498px -276px 34px 579px;
+    background: #4aaaa5;
+    position: relative;
+    font-size: 17px;
+    width: 10%;
+    padding: 8px;
+    text-align: center;
+    color: white;
+    float: left;
+    overflow: auto;
+}
+
+.widget-link{
+    margin: -299px -267px 37px 577px;
+    background: #4aaaa5;
+    position: relative;
+    font-size: 15px;
+    width: 10%;
+    padding: 10px;
+    padding-right: 17px;
+    padding-left: 0px;
+    text-align: center;
+    color: white;
+    float: left;
+    overflow: auto;
+}
+
+.rock-link{
+    margin: -279px -267px 37px 72px;
+    background: #4aaaa5;
+    position: relative;
+    font-size: 15px;
+    width: 15%;
+    padding: 7px;
+    text-align: center;
+    color: white;
+    float: left;
+    overflow: auto;
+}
+
+#box{
+    background: white;
+    width: 67%;
+    margin: 33px 0px 51px 227px;
+    border: 1px solid lightgray;
+}
